@@ -17,7 +17,7 @@ export default function Searcher(props){
         id: response.data.id,
         type: response.data.types[0].type.name,
         weight: response.data.weight,
-        img: response.data.sprites.front_default
+        img: response.data.sprites.other.dream_world.front_default
     });
   }
 
