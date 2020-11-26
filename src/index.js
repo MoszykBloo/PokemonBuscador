@@ -9,7 +9,7 @@ ReactDOM.render(
       <div className="creditos">
         <small>
           <a
-            href="https://github.com/MoszykBloo/PokemonSearcher"
+            href="https://github.com/MoszykBloo/PokemonBuscador"
             target="blank"
             id="credits"
           >
