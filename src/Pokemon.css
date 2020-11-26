@@ -21,3 +21,11 @@
 ul {
   text-align: left;
 }
+
+#card-pokename {
+  text-transform: uppercase;
+}
+
+.list-group-item {
+  text-transform: capitalize;
+}

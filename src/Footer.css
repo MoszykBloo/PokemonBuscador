@@ -1,0 +1,10 @@
+.footer {
+  width: 103%;
+  border: 2px solid rgb(230, 196, 3);
+  background: rgb(230, 196, 3);
+  margin: 0 0 0 -17px;
+}
+
+#creditos {
+  text-align: center;
+}

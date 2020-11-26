@@ -48,7 +48,7 @@ function getAbilities(abilities){
 
     if (pokeData.ready){
         return(
-        <div>
+        <div className="searcher">
         <form id="search-form" onSubmit={handleSubmit}>
             <div className="input-group mb-3" >
                 <input 
