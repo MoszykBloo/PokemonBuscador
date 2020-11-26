@@ -35,3 +35,7 @@ ul {
 .list-group-item {
   text-transform: capitalize;
 }
+
+#saludo {
+  text-transform: capitalize;
+}
