@@ -1,16 +1,22 @@
 .pokemon {
-  width: 65%;
+  width: 70%;
   display: block;
   margin: 0 auto;
   color: white;
   background: linear-gradient(to bottom, #ecce5f 10%, #080a56 75%);
+  border-radius: 20px;
+  border: 0px solid rgba(20, 204, 29, 0.932);
 }
 
 #card-pokebody-img {
-  border: 2px solid rgba(204, 20, 20, 0.932);
+  border: 0px solid rgba(204, 20, 20, 0.932);
 }
 #card-pokebody-bottom {
-  border: 2px solid rgba(20, 204, 29, 0.932);
+  border: 0px solid rgba(20, 204, 29, 0.932);
+}
+
+#card-title {
+  border: 0px solid rgba(0, 0, 0, 0.125);
 }
 
 #pokeimage {

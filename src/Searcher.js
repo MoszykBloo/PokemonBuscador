@@ -30,7 +30,7 @@ function getAbilities(abilities){
 }
 
     function search(){
-    const apiUrl = `https://pokeapi.co/api/v2/pokemon/${pokemon}/`;
+    const apiUrl = `https://pokeapi.co/api/v2/pokemon/${pokemon.toLowerCase()}/`;
     axios.get(apiUrl).then(showPokeInfo);
 
     console.log(apiUrl);

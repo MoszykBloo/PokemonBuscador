@@ -4,6 +4,12 @@
   margin: 15px auto;
 }
 
+.card#acount-card {
+  background-color: #ecce5f;
+  color: white;
+  margin: 60px auto;
+}
+
 .acount {
   margin: 15px auto;
 }
