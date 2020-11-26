@@ -1,0 +1,23 @@
+.pokemon {
+  width: 65%;
+  display: block;
+  margin: 0 auto;
+  color: white;
+  background: linear-gradient(to bottom, #ecce5f 10%, #080a56 75%);
+}
+
+#card-pokebody-img {
+  border: 2px solid rgba(204, 20, 20, 0.932);
+}
+#card-pokebody-bottom {
+  border: 2px solid rgba(20, 204, 29, 0.932);
+}
+
+#pokeimage {
+  display: block;
+  margin: 0 auto;
+}
+
+ul {
+  text-align: left;
+}
